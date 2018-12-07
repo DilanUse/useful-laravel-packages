@@ -6,3 +6,6 @@ A DOMPDF Wrapper for Laravel
 
 ## [Caffeinated Shinobi](https://github.com/caffeinated/shinobi)
 Shinobi brings a simple and light-weight role-based permissions system to Laravel's built in Auth system
+
+## [spatie/laravel-permission](https://github.com/spatie/laravel-permission)
+Associate users with permissions and roles
