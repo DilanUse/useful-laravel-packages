@@ -9,3 +9,6 @@ Shinobi brings a simple and light-weight role-based permissions system to Larave
 
 ## [spatie/laravel-permission](https://github.com/spatie/laravel-permission)
 Associate users with permissions and roles
+
+## [jenssegers/laravel-mongodb](https://github.com/jenssegers/laravel-mongodb)
+A MongoDB based Eloquent model and Query builder for Laravel (Moloquent) https://jenssegers.com
